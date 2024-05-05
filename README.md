@@ -19,7 +19,7 @@ This is a simple task manager program written in C for Linux systems. It allows 
    ./task_manager
    ```
 
-3. Choose the desired option from the menu:
-   - Display Processes: Shows a list of running processes.
-   - Kill a Process: Allows you to terminate a process by entering its PID.
-   - Exit: Quits the task manager.
+3. How to use:
+  -  After running the program, you'll see a list of running processes. The list will automatically update every 2 seconds. While the list is being displayed, you can perform the following actions:
+  -  Kill a Process: To terminate a process, Press enter then enter its PID when prompted.
+  -  Exit: To quit the task manager, enter 2 and press Enter.
